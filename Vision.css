@@ -5,7 +5,7 @@
  * @author Sync
  * 
  * @website http://syncdev.xyz/BetterDiscord
- * @source http://syncdev.xyz/BetterDiscord/Themes/Vision.css
+ * @source https://github.com/evilgenius25/themes/Vision.css
  * @donate https://paypal.me/evilgenius25
  * @invite 0
  */
@@ -22,7 +22,7 @@
 	--app-accent-rgb: 215,61,61;
 	--app-accent-text: rgb(230, 230, 230); /*	-	*/
 
-	--sidebar-color: rgba(100, 255, 255, 0.4);
+	--sidebar-color: rgba(255, 0, 0, 0.4);
 	--main-content-color: rgba(172, 16, 16, 0.2)4, 0.2); /*	-	*/
 
 	--messages-color: rgba(0,0,0,0.4); /*	-	*/
@@ -41,4 +41,7 @@
 
 	--background-modifier-hover: rgba(255,255,255,0.075);
 	--background-modifier-selected: rgba(255,255,255,0.125);
+
+fier-selected: rgba(255,255,255,0.125);
+
 }
