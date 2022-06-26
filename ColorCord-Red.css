@@ -5,13 +5,15 @@
 :root {
   --rgb-highlight: 255, 5, 4;
   --highlight: rgb(var(--rgb-highlight));
-  --background: black;
+  --background: #1e1e1e;
   --close-button: var(--dnd-color) !important;
-  --online-color: #39ff14;
-  --afk-color: #FFFF33;
-  --dnd-color: #FF0000;
-  --streaming-color: #bc13fe;
+  --online-color: #9adb86;
+  --afk-color: rgb(223, 223, 68);
+  --dnd-color: #ac4347;
+  --evil-color: #cc1111;
+  --streaming-color: #5f014f;
   --rs-online-color: var(--online-color);
+  --rs-evil-color: var(--vil-color);
   --rs-idle-color: var(--afk-color);
   --rs-dnd-color: var(--dnd-color);
   --rs-offline-color: gray;
